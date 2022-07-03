@@ -18,27 +18,31 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
-global.premium = ['6285822347348']
-global.packname = 'Sticker by'
-global.author = 'ArullOfc'
+global.owner = ['6281917773445']
+global.premium = ['6281917773445']
+global.packname = ' '
+global.author = '  
+'
+
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ *Success Ngab*',
-    admin: '*Fitur Khusus Admin Group Cok*‼️',
-    botAdmin: '*Bot Aj Bukan Admin Cok"!*',
-    owner: '*Lu siapa Cok!Owner gw?*',
+    admin: '*Fitur Khusus Admin Group*‼️',
+    botAdmin: '*Bot Aj Bukan Admin 
+	
+	!*',
+    owner: '*Fitue tersebut khusus owner!*',
     group: '*Fitur Digunakan Hanya Untuk Group!*',
     private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
     bot: '*Fitur Khusus Pengguna Nomor Bot*',
-    wait: '*Tunggu Sebentar Ya Sayang...*',
+    wait: '*Loading...*',
     endLimit: '*Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12*',
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 25
 }
 global.thumb = fs.readFileSync('./lib/20220625_223313.png')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
