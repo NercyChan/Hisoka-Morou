@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
-> Umur : *18*
+> Name : *EvriLz*
+> Nomor : *https://wa.me/6281917773445*
+> Umur : *-*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Gtw*
-> Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Made in : *Jateng*
+> Nama Asli : *Averil... Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
@@ -3048,7 +3048,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+6285822347348'
+                                    phoneNumber: '+6281917773445'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3058,12 +3058,12 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Donasi Lahh!',
-                                    id: 'donasi'
+                                    id: 'saweria.co/nercychan'
                                 }  
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Script',
-                                    id: 'sc'
+                                    id: 'gaada'
                                 }
                             }]
                          let setbot = db.data.settings[botNumber]
