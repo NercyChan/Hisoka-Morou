@@ -1157,17 +1157,17 @@ break
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Donasi Lahh',
-                                    id: 'donasi'
+                                    id: 'saweria.co/nercychan'
                                 }
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Contact Owner',
-                                    id: 'owner'
+                                    id: 'wa.me/6281917773445'
                                 }  
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Script',
-                                    id: 'sc'
+                                    id: 'gaada di cari yt'
                                 }
                             }]
                       let txt = `「 *Broadcast Group* 」\n\n${text}`
@@ -1196,17 +1196,18 @@ break
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Donasi Lahh',
-                                    id: 'donasi'
+                                    id: 'saweria.co/nercychan'
                                 }
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Contact Owner',
-                                    id: 'owner'
+                                    id: 'wa.me/6281917773445
+					'
                                 }  
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Script',
-                                    id: 'sc'
+                                    id: 'gaada cari di yt'
                                 }
                             }]
                       let txt = `「 *Broadcast ArullBotzMD* 」\n\n${text}`
